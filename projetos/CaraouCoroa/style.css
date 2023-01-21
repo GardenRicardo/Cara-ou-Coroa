@@ -1,0 +1,16 @@
+body .row{
+    background-color: aliceblue;
+    margin: 0% !important;
+    text-align: center;
+}
+html{
+    background-color: aliceblue;
+}
+.input{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#comecar{
+    width: 200px;
+    border-radius: 10px;
+}
